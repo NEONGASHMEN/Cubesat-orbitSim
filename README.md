@@ -1,7 +1,7 @@
 # Cubesat-orbitSim
 Non-GUI C++ based CubeSat simulation tool for orbits with eccentricity close to zero. Contains different orbital parameters and is propogated using RK4 method. This also contains a BDot control code, but not fully functional. Requires Eigen library to work. Pull requests are immensely appreciated.
 
-##Usage <br />
+## Usage <br />
 
 <pr><code>cd <clone_path>/Cubesat-orbitSim/</code></pr>
   
