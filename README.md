@@ -8,6 +8,6 @@ Non-GUI C++ based CubeSat simulation tool for orbits with eccentricity close to 
   
   <pr><code>git clone https://gitlab.com/libeigen/eigen.git</code></pr> <br />
   
-  <pr><code>chmod +x out.out</code></pr>
+  <pr><code>sudo chmod +x out.out</code></pr>
   
   <pr><code>./run_command.sh</code></pr>
